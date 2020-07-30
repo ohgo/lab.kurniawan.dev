@@ -1,0 +1,3 @@
+SubDomain=lab
+Domain=kurniawan.dev
+AcmCertificateArn=arn:aws:acm:us-east-1:359703367567:certificate/4aac6c6d-a997-4168-afa1-0c6b78d8989c
